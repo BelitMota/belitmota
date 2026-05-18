@@ -12,7 +12,7 @@
 
 <h3 align="left"> ✨ Let’s talk:</h3>
 <div align="left">
-  <a href="mailto:belitmota@gmail.com"><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"></a>
+  <a href="mailto:belitmota@gmail.com"><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/gmail.svg" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/belit-mota/" target="_blank"><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"></a>
   <!-- futuramente add um link pra portifólio -->
 
